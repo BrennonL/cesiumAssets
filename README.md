@@ -5,7 +5,9 @@ Assets for the LaneyCesium repository
 
 # Usage
 
-Download the zip file for each of the 4 assets:
+1. Clone the repository into a chosen directory.
+
+Download the zip files for each of the 4 assets into your [Cesium Ion account](https://cesium.com/platform/cesium-ion/):
 
 1. [CubeSat](./3u_cubesat%20(1).zip)
 2. [GEOS](./GOES-R.zip)
