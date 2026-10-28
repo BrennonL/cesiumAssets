@@ -9,12 +9,12 @@ Assets for the LaneyCesium repository
 
 2. Download the zip files for each of the 4 assets into your [Cesium Ion account](https://cesium.com/platform/cesium-ion/):
 
-  1. [CubeSat](./3u_cubesat%20(1).zip)
-  2. [GEOS](./GOES-R.zip)
-  3. [Ground Station Douala](./douala_cameroon_lemur_gnd.zip)
-  4. [Ground Station Singapore](./singapore_singapore_lemur_gnd.zip)
+  [] [CubeSat](./3u_cubesat%20(1).zip)
+  [] [GEOS](./GOES-R.zip)
+  [] [Ground Station Douala](./douala_cameroon_lemur_gnd.zip)
+  [] [Ground Station Singapore](./singapore_singapore_lemur_gnd.zip)
 
-When uploading to Cesium Ion make sure that for the satellites the glTF is selected and the ground stations are 3D Tiles.
+**When uploading to Cesium Ion make sure that for the satellites the glTF is selected and the ground stations are 3D Tiles.**
 
 # Sources
 [3u cubesat](https://sketchfab.com/3d-models/3u-cubesat-05f3b9d144fb48cfae423ccf7d74dcc9)
